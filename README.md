@@ -28,17 +28,18 @@ Improvement projects on any new skill and new resource building project, a job p
 - Help teach people about the tech world
 - I have some projects in the works I can't wait to share
 
+<!--
 ## **Stats**
 
 [![Coldteus Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=coldteus&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/coldteus/coldteus)
 
 [![Coldtes GitHub stats](https://github-readme-stats.vercel.app/api?username=justice-hub&show_icons=true&theme=tokyonight)](https://github.com/coldteus/coldteus)
 
-[![Coldteus GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=coldteus&theme=tokyonight)](https://github.com/coldteus/coldteus)
+[![Coldteus GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=coldteus&theme=tokyonight)](https://github.com/coldteus/coldteus)  -->
 
 <!--[![Coldteus GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=coldteus&theme=tokyonight)](https://github.com/coldteus/coldteus) -->
 
-**What've I been up to this week?** 
+<!--**What've I been up to this week?** -->
 
 <!--START_SECTION:waka
 
