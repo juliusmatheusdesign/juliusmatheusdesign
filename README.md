@@ -1,4 +1,4 @@
-## Hey there! I'm Julius Matheus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
+## Ei! Eu sou Julius Matheus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
 
 <!-- &nbsp; [![](https://visitor-badge.glitch.me/badge?page_id=coldteus.coldteus)](https://github.com/coldteus/coldteus) -->
 
@@ -7,35 +7,43 @@
 Sou um desenvolvedor front-end e UX/UI designer, buscando se tornar um desenvolvedor fullstack. Tenho uma grande paixão pela programação e design, sempre busco criar novos desafios e projetos voltados para web.
 Gosto de trabalhar em novos projetos e ultrapassar meus limites, sendo essa, uma das melhores formas de aperfeiçoar e aprender novas habilidades e técnicas, então sinta-se à vontade para entrar em contato se tiver alguma proposta de um projeto ou precisar de ajuda com qualquer coisa. 
 
-### EN **It's a pleasure to have you here!**
+---
 
-I'm a front-end developer and UX/UI designer, looking to become a fullstack developer. I have a great passion for programming and design, no passion to create new challenges and projects perfect for the web.
-Improvement projects on any new skill and new resource building project, a job proposal that can be used on new skills, and a need for improvement project or need in contact with a new skill building project or willingness to enter in touch. thing.
+### **Sobre mim**
+
+- Atualmente codificando no **Brasil**
+- Procurando colaborar com outras pessoas
+- Atualmente aprendendo mais sobre JavaScript, Node.JS, C, Web Design, UI e UX
 
 ---
 
-### **About me**
+### **O que estou fazendo?**
 
-- Currently coding in **Brazil**
-- Looking to collaborate with other people
-- Currently learning more about JavaScript, Node.JS, C, Web Design, UI and UX
+- Estudando intensamente em Fullstack
+- Tenho alguns projetos em andamento que mal posso esperar para compartilhar
 
 ---
 
-### **What I'm up to?**
+### **Tecnologias que uso no meu dia a dia**
 
-- Studying intensively on fullstack
-- Help teach people about the tech world
-- I have some projects in the works I can't wait to share
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
 
-<!--
-## **Stats**
+### **Status**
 
-[![Coldteus Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=coldteus&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/coldteus/coldteus)
+![Coldteus GitHub stats](https://github-readme-stats.vercel.app/api?username=coldteus&show_icons=true&theme=dracula)
 
-[![Coldtes GitHub stats](https://github-readme-stats.vercel.app/api?username=justice-hub&show_icons=true&theme=tokyonight)](https://github.com/coldteus/coldteus)
+![Coldteus Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=coldteus&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-[![Coldteus GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=coldteus&theme=tokyonight)](https://github.com/coldteus/coldteus)  -->
+
+[![Coldteus GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=coldteus&theme=tokyonight)](https://github.com/coldteus/coldteus)  
+
 
 <!--[![Coldteus GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=coldteus&theme=tokyonight)](https://github.com/coldteus/coldteus) -->
 
