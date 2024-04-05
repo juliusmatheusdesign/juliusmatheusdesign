@@ -1,6 +1,6 @@
 ## Ei! Eu sou Julius Matheus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
 
-<!-- &nbsp; [![](https://visitor-badge.glitch.me/badge?page_id=coldteus.coldteus)](https://github.com/coldteus/coldteus) -->
+<!-- &nbsp; [![](https://visitor-badge.glitch.me/badge?page_id=juliusmatheusdesign.juliusmatheusdesign)](https://github.com/juliusmatheusdesign/juliusmatheusdesign) -->
 
 ### **É um prazer ter você aqui!**
 
@@ -37,15 +37,15 @@ Gosto de trabalhar em novos projetos e ultrapassar meus limites, sendo essa, uma
 
 ### **Status**
 
-![Coldteus GitHub stats](https://github-readme-stats.vercel.app/api?username=coldteus&show_icons=true&theme=dracula)
+![Julius Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=juliusmatheusdesign&show_icons=true&theme=dracula)
 
-![Coldteus Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=coldteus&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-
-
-[![Coldteus GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=coldteus&theme=tokyonight)](https://github.com/coldteus/coldteus)  
+![Julius Matheus Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=juliusmatheusdesign&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 
-<!--[![Coldteus GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=coldteus&theme=tokyonight)](https://github.com/coldteus/coldteus) -->
+[![Julius Matheus GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=juliusmatheusdesign&theme=tokyonight)](https://github.com/coldteus/coldteus)  
+
+
+<!--[![Julius Matheus GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=juliusmatheusdesign&theme=tokyonight)](https://github.com/juliusmatheusdesign/juliusmatheusdesign) -->
 
 <!--**What've I been up to this week?** -->
 
@@ -66,7 +66,7 @@ END_SECTION:waka-->
 
 
 <!--
-**coldteus/coldteus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**juliusmatheusdesign/juliusmatheusdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
