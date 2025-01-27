@@ -42,7 +42,7 @@ Gosto de trabalhar em novos projetos e ultrapassar meus limites, sendo essa, uma
 ![Julius Matheus Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=juliusmatheusdesign&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 
-[![Julius Matheus GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=juliusmatheusdesign&theme=tokyonight)](https://github.com/coldteus/coldteus)  
+[![Julius Matheus GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=juliusmatheusdesign&theme=tokyonight)](https://github.com/juliusmatheusdesign/juliusmatheusdesign)  
 
 
 <!--[![Julius Matheus GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=juliusmatheusdesign&theme=tokyonight)](https://github.com/juliusmatheusdesign/juliusmatheusdesign) -->
